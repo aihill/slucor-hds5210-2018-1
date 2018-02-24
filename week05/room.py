@@ -17,4 +17,12 @@ class Room():
         self.room_nbr = label[label.find(' ')+1:]
         self.label = label
         
+    def same_floor(self, other):
+        """
+        Two rooms are on the same floor if they're in the same building and have the same thousand's place in their room numbers.
+        """
+        my_floor = int(int(self.room_nbr) / 1000)
+        other_floor = int(int(other.room_nbr) / 1000)
+
+        return (self.building == other.building) and (my_floor == other_floor)
         
