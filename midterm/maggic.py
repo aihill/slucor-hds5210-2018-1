@@ -10,12 +10,14 @@ def score(risk_factors, ejection_fraction, nyha_class, creatinine, bmi, systolic
 
 def risk_factor_points(risk_factors):
     points = 0
+    risk_factors = [risk.lower() for risk in risk_factors]
+    
     risks_list = ['male','smoker','diabetic','copd','first diagnosis of hf within 18 months','not on beta blocker','not on ace-i/arb']
     points_list = [1,1,3,2,2,3,1]
     
     for factor in risk_factors:
         for i in range(len(risks_list)):
-            if factor.lower() == risks_list[i].lower():
+            if factor == risks_list[i]:
                 points += points_list[i]
                 
     return points

@@ -18,7 +18,7 @@ def region(description):
     
     if 'small' in description:
         m *= 1.1
-    elif 'rural' in description:
+    if 'rural' in description:
         m *= 1.1
         
     return m
