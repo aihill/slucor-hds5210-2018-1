@@ -1,0 +1,9 @@
+PATIENT:Boal,Paul
+MEDICATION:Ibuprofen,200mg
+MEDICATION:Vallium,95mg
+END
+PATIENT:Westhus,Eric
+MEDICATION:Acetominaphen,200mg
+MEDICATION:Flintstones Chewable Morphine,100mg
+MEDICATION:Zolpidem,10mg
+END

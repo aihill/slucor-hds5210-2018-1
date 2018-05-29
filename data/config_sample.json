@@ -1,0 +1,15 @@
+{
+	"Database User": "slucor",
+	"Database Password": "S1UC0R",
+	"Database Host": "localhost",
+	"Database Name": "hds5210",
+
+	"Start Date": "2016-11-01",
+	"End Date": "2016-11-30",
+
+	"Cost Field Mapping": {
+		"MG001": ["ingredient_cost", "admin_fee", "rebate_amount"],
+		"MG002": ["ingredient_cost"],
+		"AZ001": ["incredient_cost", "admin_fee"]
+	}
+}

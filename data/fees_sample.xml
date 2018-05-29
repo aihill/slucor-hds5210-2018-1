@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fee_config>
+  <fees member_group="MG001" mail_retail="MAIL">
+    <admin_fee>0.50</admin_fee>
+    <processing_fee>0.05</processing_fee>
+  </fees>
+  <fees member_group="MG001" mail_retail="RETAIL">
+    <admin_fee>0.50</admin_fee>
+    <processing_fee>0.10</processing_fee>
+  </fees>
+</fee_config>

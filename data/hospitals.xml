@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hospitals>
+  <hospital system='SSM' name='SLUH'>
+    <beds>1345</beds>
+    <physicians>340</physicians>
+  </hospital>
+  <hospital system='SSM' name='DePaul'>
+    <beds>412</beds>
+    <physicians>210</physicians>
+  </hospital>
+  <hospital system='Mercy' name='St. Louis'>
+    <beds>1103</beds>
+    <physicians>543</physicians>
+  </hospital>
+</hospitals>
+
+

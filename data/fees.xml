@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fee_config>
+  <fees member_group="00400F" mail_retail="MAIL">
+    <admin_fee>0.76</admin_fee>
+    <processing_fee>1.83</processing_fee>
+  </fees>
+  <fees member_group="00400F" mail_retail="RETAIL">
+    <admin_fee>1.335</admin_fee>
+    <processing_fee>1.645</processing_fee>
+  </fees>
+  <fees member_group="00460G" mail_retail="MAIL">
+    <admin_fee>0.88</admin_fee>
+    <processing_fee>1.18</processing_fee>
+  </fees>
+  <fees member_group="00460G" mail_retail="RETAIL">
+    <admin_fee>0.13</admin_fee>
+    <processing_fee>0.2</processing_fee>
+  </fees>
+  <fees member_group="00HH01" mail_retail="MAIL">
+    <admin_fee>0.1</admin_fee>
+    <processing_fee>1.45</processing_fee>
+  </fees>
+  <fees member_group="00HH01" mail_retail="RETAIL">
+    <admin_fee>0.09</admin_fee>
+    <processing_fee>0.39</processing_fee>
+  </fees>
+  <fees member_group="00670F" mail_retail="MAIL">
+    <admin_fee>0.07</admin_fee>
+    <processing_fee>0.73</processing_fee>
+  </fees>
+  <fees member_group="00670F" mail_retail="RETAIL">
+    <admin_fee>0.88</admin_fee>
+    <processing_fee>0.88</processing_fee>
+  </fees>
+  <fees member_group="00HH02" mail_retail="MAIL">
+    <admin_fee>0.93</admin_fee>
+    <processing_fee>1.84</processing_fee>
+  </fees>
+  <fees member_group="00HH02" mail_retail="RETAIL">
+    <admin_fee>0.22</admin_fee>
+    <processing_fee>1.01</processing_fee>
+  </fees>
+  <fees member_group="00HH10" mail_retail="MAIL">
+    <admin_fee>0.76</admin_fee>
+    <processing_fee>0.73</processing_fee>
+  </fees>
+  <fees member_group="00HH10" mail_retail="RETAIL">
+    <admin_fee>0.78</admin_fee>
+    <processing_fee>0.22</processing_fee>
+  </fees>
+  <fees member_group="00430R" mail_retail="MAIL">
+    <admin_fee>0.53</admin_fee>
+    <processing_fee>1.08</processing_fee>
+  </fees>
+  <fees member_group="00430R" mail_retail="RETAIL">
+    <admin_fee>0.93</admin_fee>
+    <processing_fee>1.78</processing_fee>
+  </fees>
+  <fees member_group="00460H" mail_retail="MAIL">
+    <admin_fee>0.29</admin_fee>
+    <processing_fee>1.65</processing_fee>
+  </fees>
+  <fees member_group="00460H" mail_retail="RETAIL">
+    <admin_fee>0.03</admin_fee>
+    <processing_fee>0.34</processing_fee>
+  </fees>
+  <fees member_group="00HH17" mail_retail="MAIL">
+    <admin_fee>0.34</admin_fee>
+    <processing_fee>0.86</processing_fee>
+  </fees>
+  <fees member_group="00HH17" mail_retail="RETAIL">
+    <admin_fee>0.44</admin_fee>
+    <processing_fee>1.36</processing_fee>
+  </fees>
+  <fees member_group="62960S" mail_retail="MAIL">
+    <admin_fee>0.26</admin_fee>
+    <processing_fee>0.31</processing_fee>
+  </fees>
+  <fees member_group="62960S" mail_retail="RETAIL">
+    <admin_fee>0.13</admin_fee>
+    <processing_fee>0.21</processing_fee>
+  </fees>
+  <fees member_group="00470Z" mail_retail="MAIL">
+    <admin_fee>0.03</admin_fee>
+    <processing_fee>1.1</processing_fee>
+  </fees>
+  <fees member_group="00470Z" mail_retail="RETAIL">
+    <admin_fee>0.84</admin_fee>
+    <processing_fee>1.4</processing_fee>
+  </fees>
+  <fees member_group="00410H" mail_retail="MAIL">
+    <admin_fee>0.76</admin_fee>
+    <processing_fee>0.43</processing_fee>
+  </fees>
+  <fees member_group="00410H" mail_retail="RETAIL">
+    <admin_fee>0.62</admin_fee>
+    <processing_fee>1.24</processing_fee>
+  </fees>
+  <fees member_group="00SNP2" mail_retail="MAIL">
+    <admin_fee>0.98</admin_fee>
+    <processing_fee>0.71</processing_fee>
+  </fees>
+  <fees member_group="00SNP2" mail_retail="RETAIL">
+    <admin_fee>0.25</admin_fee>
+    <processing_fee>0.21</processing_fee>
+  </fees>
+  <fees member_group="00060F" mail_retail="MAIL">
+    <admin_fee>0.42</admin_fee>
+    <processing_fee>0.5</processing_fee>
+  </fees>
+  <fees member_group="00060F" mail_retail="RETAIL">
+    <admin_fee>0.23</admin_fee>
+    <processing_fee>1.16</processing_fee>
+  </fees>
+  <fees member_group="2003" mail_retail="MAIL">
+    <admin_fee>0.21</admin_fee>
+    <processing_fee>1.51</processing_fee>
+  </fees>
+  <fees member_group="2003" mail_retail="RETAIL">
+    <admin_fee>0.26</admin_fee>
+    <processing_fee>1.45</processing_fee>
+  </fees>
+  <fees member_group="F591SP" mail_retail="MAIL">
+    <admin_fee>0.3</admin_fee>
+    <processing_fee>1.04</processing_fee>
+  </fees>
+  <fees member_group="F591SP" mail_retail="RETAIL">
+    <admin_fee>0.92</admin_fee>
+    <processing_fee>1.4</processing_fee>
+  </fees>
+  <fees member_group="00470B" mail_retail="MAIL">
+    <admin_fee>0.26</admin_fee>
+    <processing_fee>1.93</processing_fee>
+  </fees>
+  <fees member_group="00470B" mail_retail="RETAIL">
+    <admin_fee>0.51</admin_fee>
+    <processing_fee>0.6</processing_fee>
+  </fees>
+  <fees member_group="00000F" mail_retail="MAIL">
+    <admin_fee>0.67</admin_fee>
+    <processing_fee>1.61</processing_fee>
+  </fees>
+  <fees member_group="00000F" mail_retail="RETAIL">
+    <admin_fee>0.22</admin_fee>
+    <processing_fee>1.53</processing_fee>
+  </fees>
+  <fees member_group="5033FP" mail_retail="MAIL">
+    <admin_fee>0.58</admin_fee>
+    <processing_fee>1.91</processing_fee>
+  </fees>
+  <fees member_group="5033FP" mail_retail="RETAIL">
+    <admin_fee>0.06</admin_fee>
+    <processing_fee>0.66</processing_fee>
+  </fees>
+  <fees member_group="00HH18" mail_retail="MAIL">
+    <admin_fee>0.59</admin_fee>
+    <processing_fee>0.76</processing_fee>
+  </fees>
+  <fees member_group="00HH18" mail_retail="RETAIL">
+    <admin_fee>0.05</admin_fee>
+    <processing_fee>1.45</processing_fee>
+  </fees>
+  <fees member_group="00HH19" mail_retail="MAIL">
+    <admin_fee>0.89</admin_fee>
+    <processing_fee>1.9</processing_fee>
+  </fees>
+  <fees member_group="00HH19" mail_retail="RETAIL">
+    <admin_fee>0.12</admin_fee>
+    <processing_fee>0.35</processing_fee>
+  </fees>
+  <fees member_group="00470F" mail_retail="MAIL">
+    <admin_fee>0.31</admin_fee>
+    <processing_fee>1.74</processing_fee>
+  </fees>
+  <fees member_group="00470F" mail_retail="RETAIL">
+    <admin_fee>0.75</admin_fee>
+    <processing_fee>0.17</processing_fee>
+  </fees>
+  <fees member_group="00440F" mail_retail="MAIL">
+    <admin_fee>0.42</admin_fee>
+    <processing_fee>0.23</processing_fee>
+  </fees>
+  <fees member_group="00440F" mail_retail="RETAIL">
+    <admin_fee>0.07</admin_fee>
+    <processing_fee>1.93</processing_fee>
+  </fees>
+  <fees member_group="00530B" mail_retail="MAIL">
+    <admin_fee>0.39</admin_fee>
+    <processing_fee>1.77</processing_fee>
+  </fees>
+  <fees member_group="00530B" mail_retail="RETAIL">
+    <admin_fee>0.12</admin_fee>
+    <processing_fee>1.35</processing_fee>
+  </fees>
+  <fees member_group="00411J" mail_retail="MAIL">
+    <admin_fee>0.3</admin_fee>
+    <processing_fee>0.49</processing_fee>
+  </fees>
+  <fees member_group="00411J" mail_retail="RETAIL">
+    <admin_fee>0.06</admin_fee>
+    <processing_fee>0.61</processing_fee>
+  </fees>
+  <fees member_group="2005" mail_retail="MAIL">
+    <admin_fee>0.79</admin_fee>
+    <processing_fee>1.19</processing_fee>
+  </fees>
+  <fees member_group="2005" mail_retail="RETAIL">
+    <admin_fee>0</admin_fee>
+    <processing_fee>1.18</processing_fee>
+  </fees>
+  <fees member_group="00SNP1" mail_retail="MAIL">
+    <admin_fee>0.76</admin_fee>
+    <processing_fee>1.31</processing_fee>
+  </fees>
+  <fees member_group="00SNP1" mail_retail="RETAIL">
+    <admin_fee>0.54</admin_fee>
+    <processing_fee>0.41</processing_fee>
+  </fees>
+  <fees member_group="2007" mail_retail="MAIL">
+    <admin_fee>0.25</admin_fee>
+    <processing_fee>1.67</processing_fee>
+  </fees>
+  <fees member_group="2007" mail_retail="RETAIL">
+    <admin_fee>0.26</admin_fee>
+    <processing_fee>1.5</processing_fee>
+  </fees>
+  <fees member_group="4003" mail_retail="MAIL">
+    <admin_fee>0.11</admin_fee>
+    <processing_fee>1.47</processing_fee>
+  </fees>
+  <fees member_group="4003" mail_retail="RETAIL">
+    <admin_fee>0.83</admin_fee>
+    <processing_fee>0.73</processing_fee>
+  </fees>
+  <fees member_group="00670H" mail_retail="MAIL">
+    <admin_fee>0.07</admin_fee>
+    <processing_fee>0.31</processing_fee>
+  </fees>
+  <fees member_group="00670H" mail_retail="RETAIL">
+    <admin_fee>0.83</admin_fee>
+    <processing_fee>1.36</processing_fee>
+  </fees>
+</fee_config>

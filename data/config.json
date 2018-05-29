@@ -1,0 +1,42 @@
+{
+	"Database User": "slucor",
+	"Database Password": "s1uc0r",
+	"Database Host": "localhost",
+	"Database Name": "hds5210",
+
+	"Start Date": "2016-11-01",
+	"End Date": "2016-11-30",
+
+	"Cost Field Mapping": {
+		"00400F": ["ingredient_cost"],
+		"00460G": ["ingredient_cost", "admin_fee"],
+		"00HH01": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"00670F": ["ingredient_cost"],
+		"00HH02": ["ingredient_cost", "processing_fee"],
+		"00HH10": ["ingredient_cost", "processing_fee"],
+		"00430R": ["ingredient_cost"],
+		"00460H": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"00HH17": ["ingredient_cost", "admin_fee"],
+		"62960S": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"00470Z": ["ingredient_cost", "processing_fee"],
+		"00410H": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"00SNP2": ["ingredient_cost"],
+		"00060F": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"2003": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"F591SP": ["ingredient_cost", "processing_fee"],
+		"00470B": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"00000F": ["ingredient_cost",  "processing_fee"],
+		"5033FP": ["ingredient_cost"],
+		"00HH18": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"00HH19": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"00470F": ["ingredient_cost", "processing_fee"],
+		"00440F": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"00530B": ["ingredient_cost"],
+		"00411J": ["ingredient_cost", "admin_fee"],
+		"2005": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"00SNP1": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"2007": ["ingredient_cost"],
+		"4003": ["ingredient_cost", "admin_fee", "processing_fee"],
+		"00670H": ["ingredient_cost", "admin_fee"]
+	}
+}
